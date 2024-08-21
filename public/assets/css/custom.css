@@ -1,0 +1,483 @@
+/* datatable customization stylings */
+
+:root {
+  --bs-component-hover-bg: #2e73ff;
+  --bs-component-hover-color: #fff;
+  --bs-dropdown-bg: #fff;
+  --bs-dropdown-box-shadow: 0 0 0 0.15rem rgba(90, 90, 90, 0.25);
+}
+
+body.modal-open {
+  overflow-y: hidden;
+  padding-right: 14px;
+}
+
+.theTop {
+  top: 9%;
+}
+
+.theSidebar-height {
+  height: calc(95vh - 80px);
+  overflow-y: auto;
+}
+
+.theSidebar-height-scroll {
+  height: calc(100vh - 80px);
+  overflow-y: auto;
+}
+
+.top-header {
+  position: relative;
+  /* padding: 1.5em 100px; */
+  /* padding-left: 270px; */
+  padding-top: 92px;
+  padding-bottom: 25px;
+}
+
+.table-responsive .dataTables_wrapper .dataTables_paginate .paginate_button {
+  padding: unset;
+  border: unset;
+  margin-left: 0.5em;
+  border-radius: 0.5em;
+  overflow: hidden;
+}
+
+.dataTables_wrapper {
+  position: relative;
+}
+
+.dataTables_length {
+  margin-bottom: unset;
+  margin-right: 0.5em;
+}
+
+.table-responsive .dataTables_wrapper .dataTables_length select {
+  padding-right: 38px;
+}
+
+.table-responsive .dataTables_wrapper .dataTables_length select {
+  padding-right: 38px;
+}
+
+.dataTables_empty {
+  text-align: center;
+}
+
+.table-relative .table-responsive {
+  overflow: visible;
+}
+
+div.dataTables_wrapper table .dtr-details {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+div.dataTables_wrapper table .dtr-details .dtr-data {
+  display: flex;
+}
+
+
+
+div.dataTables_wrapper div.dataTables_processing {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0.5em 1em;
+  background: white;
+  box-shadow: 0.1em 0.2em 3em rgba(0, 0, 0, 0.1);
+  left: 50%;
+}
+
+.filter-box {
+  width: 18em;
+}
+
+.owl-navigation {
+  border: none;
+}
+
+.search-box {
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .search-box {
+    display: flex;
+    position: relative;
+    align-items: center;
+    width: 100%;
+  }
+}
+
+.search-box>input {
+  padding-left: 3em;
+}
+
+.search-box>label {
+  position: absolute;
+  left: 1em;
+  cursor: text;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.list-number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F5F6FA;
+  width: 36px;
+  height: 36px;
+}
+
+.panduan-list {
+  list-style-type: disc;
+}
+
+.text-info {
+  color: #1E5EFF;
+  ;
+
+}
+
+/* dropzone customization */
+
+form .dropzone {
+  border: 2px dashed #dfe5ef;
+  border-radius: 1em;
+  padding: 1em;
+  min-height: unset;
+}
+
+form .dropzone:not(.dz-started) {
+  padding: 3.5em;
+}
+
+form .dropzone .dz-preview {
+  display: flex;
+  align-items: center;
+  padding: 1.5em 2em;
+  background: #f6f7f9 !important;
+  border-radius: 1em;
+  margin: unset;
+  min-height: unset;
+}
+
+form .dropzone .dz-message {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+form .dz-preview.dz-error {
+  background: #ff00000f !important;
+}
+
+form .dropzone .dz-preview .dz-error-message {
+  top: 85px;
+  left: 0;
+  width: 300px;
+}
+
+a[data-dz-name] {
+  color: black;
+}
+
+a[data-dz-name].has-preview {
+  color: rgb(0, 119, 255);
+}
+
+form .dropzone .dz-preview .dz-details .dz-size {
+  margin-bottom: unset;
+  font-size: 1em;
+}
+
+form .dropzone .dz-preview .dz-details {
+  position: static;
+  min-width: unset;
+  width: 100%;
+  margin-left: 1em;
+  text-align: left;
+  min-height: unset;
+  padding: unset;
+  opacity: 1;
+}
+
+form .dropzone .dz-preview .dz-details .dz-progress {
+  opacity: 1;
+  margin: 0;
+  position: static;
+  margin-top: 0.3em;
+  animation: unset;
+  pointer-events: none;
+  background: rgba(219, 219, 219, 0.9);
+  height: 5px;
+  width: 100%;
+}
+
+form .dropzone .dz-preview .dz-details .dz-details__info {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+form .dropzone .dz-preview .dz-actions {
+  display: flex;
+  /* align-content: ; */
+  align-items: center;
+  gap: 0.5em;
+}
+
+form .dropzone .dz-preview .dz-actions .dz-action__remove {
+  color: red;
+}
+
+form .dropzone .dz-preview .dz-actions .dz-info__name::after {
+  font-family: "Font Awesome 5 Pro";
+  content: "\f111";
+  font-weight: 600;
+  font-size: 4px;
+  color: rgb(41, 41, 41);
+  vertical-align: middle;
+  margin-left: 7px;
+}
+
+/* form .dropzone .dz-preview .dz-actions > *:not(:last-of-type)::after {
+	font-family: 'Font Awesome 5 Pro';
+	content: "\f111";
+	font-weight: 600;
+	font-size: 4px;
+	color: rgb(41, 41, 41);
+	vertical-align: middle;
+	margin-left: 7px;
+} */
+
+/* form .dropzone:not(.dz-processing) .dz-action__cancel {
+    display: none;
+} */
+
+
+/* toastr */
+
+#toastr-container>div {
+  width: 400px;
+  font-size: 12px;
+}
+
+.transparent-preloader {
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  position: fixed;
+  z-index: 99999;
+  background: #00000082 !important;
+}
+
+.inner-level {
+  padding-left: 0.5em;
+}
+
+.modal form.form-modal {
+  padding: 1em;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+@keyframes beat {
+
+  0%,
+  50% {
+    opacity: 1;
+  }
+
+  25%,
+  75% {
+    opacity: 0;
+  }
+}
+
+
+
+.radio-group {
+  display: flex;
+  gap: .5em;
+}
+
+.radio {
+  display: flex;
+  align-items: center;
+  gap: .5em;
+}
+
+.radio-group input[type='radio'] {
+  height: 20px;
+  width: 20px;
+  margin-right: .3em;
+}
+
+
+.form-check-input--standalone {
+  background-size: 60% 60%;
+}
+
+.skeleton {
+  background-color: #ebebeb;
+  background-image: linear-gradient(90deg,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 0.658),
+      rgba(255, 255, 255, 0));
+  background-size: 30% 100%;
+  background-repeat: no-repeat;
+  background-position: left -40px top 0;
+  animation: shine 1.2s ease infinite;
+}
+
+@keyframes shine {
+  to {
+    background-position: right -40px top 0;
+  }
+}
+
+.ckeditor-skeleton {
+  border-radius: 0.5em;
+  overflow: hidden;
+  border: 1px solid rgb(224, 224, 224);
+}
+
+.ckeditor-skeleton>div {
+  border: 1px solid rgb(221, 221, 221);
+}
+
+.select2-container .select2-selection--single {
+  height: unset !important;
+}
+
+table.dataTable>tbody>tr.selected>* {
+  box-shadow: inset 0 0 0 9999px rgb(225, 225, 225) !important;
+  color: black !important;
+}
+
+.inset-0 {
+  inset: 0 0 0 0 !important;
+}
+
+.h-screen {
+  height: 100vh !important;
+}
+
+.w-screen {
+  width: 100vw !important;
+}
+
+div.swal2-loader {
+  animation: none;
+  border: none;
+  width: auto;
+  height: auto;
+  border-radius: 0.5em;
+  padding: 1em 2em;
+  margin: 15px 5px 0;
+  font-size: 1em;
+  background-color: lightgray;
+  cursor: not-allowed;
+}
+
+
+.form-switch .form-check-input {
+  width: 4em;
+  height: 2em;
+}
+
+table.dataTable>tbody>tr.child span.dtr-title {
+  display: inline-block;
+  min-width: 150px;
+  font-weight: 500;
+}
+
+table.dataTable>tbody>tr.child span.dtr-data::before {
+  content: ":";
+  margin-right: 5px;
+}
+
+.image-container {
+  position: relative;
+  overflow: hidden;
+  /* Pastikan gradient tidak melebihi gambar */
+}
+
+.select2-container--bootstrap5 .select2-selection.is-invalid {
+  position: relative;
+}
+
+.select2-container--bootstrap5 .select2-selection.is-valid .select2-selection__clear,
+.select2-container--bootstrap5 .select2-selection.is-invalid .select2-selection__clear
+ {
+  right: 5em;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  max-height: 500px;
+}
+
+.overlay-top {
+  top: 0;
+  position: absolute;
+  width: 100%;
+  height: 75px;
+  /* Atur ketebalan gradient sesuai kebutuhan */
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.overlay-right {
+  top: 0;
+  right: 0;
+  position: absolute;
+  width: 75px;
+  /* Atur ketebalan gradient sesuai kebutuhan */
+  height: 100%;
+  background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.overlay-bottom {
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  height: 75px;
+  /* Atur ketebalan gradient sesuai kebutuhan */
+  background: linear-gradient(to top, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.overlay-left {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 75px;
+  /* Atur ketebalan gradient sesuai kebutuhan */
+  height: 100%;
+  background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+@media (max-width: 768px) {
+  .item {
+    flex-direction: column;
+  }
+
+  .col-md-6 {
+    width: 100%;
+  }
+
+  .btn {
+    max-width: 200px;
+    /* Sesuaikan dengan lebar maksimum yang diinginkan */
+    width: 100%;
+    /* Tombol akan mengambil lebar maksimum yang tersedia */
+  }
+}

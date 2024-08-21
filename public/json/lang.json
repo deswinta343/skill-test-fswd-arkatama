@@ -1,0 +1,24 @@
+{
+    "decimal":        "",
+    "emptyTable":     "Tidak ada data yang tersedia dalam tabel",
+    "info":           "TOTAL Results",
+    "infoEmpty":      "0 Results",
+    "infoFiltered":   "",
+    "infoPostFix":    "",
+    "thousands":      ",",
+    "lengthMenu":     "",
+    "loadingRecords": "Memuat...",
+    "processing":     "",
+    "search":         "Cari:",
+    "zeroRecords":    "Tidak ada data yang cocok",
+    "paginate": {
+        "first":      "<i class=\"fal fa-arrow-left fs-4\"></i>",
+        "last":       "<i class=\"fal fa-arrow-right fs-4\"></i>",
+        "next":       "<i class=\"fal fa-arrow-right fs-4\"></i>",
+        "previous":   "<i class=\"fal fa-arrow-left fs-4\"></i>"
+    },
+    "aria": {
+        "orderable":  "Order by this column",
+        "orderableReverse": "Reverse order this column"
+    }
+}

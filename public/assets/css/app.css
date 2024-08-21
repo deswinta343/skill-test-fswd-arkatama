@@ -1,0 +1,51 @@
+.theCard-Jadwal
+{
+    background: white;
+    box-shadow: 23.194608688354492px 19.71541976928711px 32.169124603271484px 0px #3366FF0D;
+
+}
+
+.theCard-Jadwal .iconCard-Jadwal {
+    background: #FF625033;
+    border-radius: 5.86px;
+    padding: 5.86px;
+}
+
+.theCard-Jadwal div p{
+    font-size: 18px;
+    font-weight: 600;
+    color: #2D2D2D;
+    line-height: 100%;
+}
+
+.theCard-Jadwal .cardDes {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #2D2D2D;
+    padding-bottom: 10px;
+    border-bottom: 1px solid;
+    border-color: #E6E6E6;
+}
+.theCard-Jadwal .jadwalInformation-cls {
+    background: #FFE5E8;
+    padding: 10.45px 8.71px 10.45px 8.71px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+    color:#F0142F;
+    border-radius: 5px;
+}
+
+.theCard-Jadwal .jadwalInformation-open {
+    background: #E7EEFF;
+    padding: 10.45px 8.71px 10.45px 8.71px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+    color:#2280EF;
+    border-radius: 5px;
+}

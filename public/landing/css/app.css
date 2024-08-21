@@ -1,0 +1,169 @@
+.statistik {
+    background: rgb(9,79,183);
+    background: linear-gradient(97deg, rgba(9,79,183,1) 0%, rgba(53,96,160,1) 87%);
+}
+
+
+.theCard-statistik {
+    background: white;
+    -webkit-box-shadow: 1px 1px 42px 0px rgba(6,28,61,0.13);
+    -moz-box-shadow: 1px 1px 42px 0px rgba(6,28,61,0.13);
+    box-shadow: 1px 1px 42px 0px rgba(6,28,61,0.13);
+    border-radius: 15px;
+    padding: 20px 30px 20px 30px;
+}
+
+.theCard-statistik .iconCard-statistik {
+    background: #C6223B;
+    border-radius: 10px;
+}
+.theCard-statistik .iconCard-statistik-2 {
+    background: #F9BF26;
+    border-radius: 10px;
+}
+
+
+.theCard-Jadwal
+{
+    padding: 26.12px 21.77px 26.12px 21.77px;
+    background: white;
+    box-shadow: 23.194608688354492px 19.71541976928711px 32.169124603271484px 0px #3366FF0D;
+    border-radius: 13.31px;
+
+}
+
+.theCard-Jadwal .iconCard-Jadwal {
+    background: #FF625033;
+    border-radius: 5.86px;
+    padding: 5.86px;
+}
+
+.theCard-Jadwal div p{
+    font-size: 18px;
+    font-weight: 600;
+    color: #2D2D2D;
+    line-height: 100%;
+}
+
+.theCard-Jadwal .cardDes {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    color: #2D2D2D;
+    padding-bottom: 10px;
+    border-bottom: 1px solid;
+    border-color: #E6E6E6;
+}
+.theCard-Jadwal .jadwalInformation-cls {
+    background: #FFE5E8;
+    padding: 10.45px 8.71px 10.45px 8.71px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+    color:#F0142F;
+    border-radius: 5px;
+}
+
+.theCard-Jadwal .jadwalInformation-open {
+    background: #E7EEFF;
+    padding: 10.45px 8.71px 10.45px 8.71px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    text-align: left;
+    color:#2280EF;
+    border-radius: 5px;
+}
+
+
+
+table, thead, tr, th{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #5A607F;
+}
+
+.theIcon-program{
+    background: #7E84A3;
+    border-radius: 10px;
+}
+
+.theProgram-text h1{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: left;
+    color: #131523;
+    margin: 0;
+}
+.theProgram-text p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    color: #5A607F;
+    margin: 0;
+}
+
+
+.accFAQ {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21.6px;
+    text-align: left;
+    color: #000000;
+}
+
+.accFAQdes{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #3C3C43D9;
+}
+
+
+.hero-bg {
+    background-image: url("../images/backgrounds/unduh-bg.png");
+    background-size: cover;
+}
+
+.hero-title {
+    font-size: 3rem;
+}
+
+.footer-bg {
+    background-color: #3560a0;
+}
+.bg-icon-brand {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 9px;
+    margin-right: 9px;
+}
+
+.fb {
+    padding-left: 11px;
+    padding-right: 11px;
+}
+
+.border-footer{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.login-card {
+    box-shadow: 0px 4px 100px 0px #3560a01a;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.login-bg {
+    background-image: url("../images/backgrounds/login-bg.png");
+    background-size: cover;
+}
+
+.login-btn {
+    padding: 12px 0;
+}

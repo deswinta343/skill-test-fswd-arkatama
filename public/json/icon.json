@@ -1,0 +1,623 @@
+[
+  {
+    "class": "ki-outline ki-abstract"
+  },
+  {
+    "class": "ki-outline ki-abstract-1"
+  },
+  {
+    "class": "ki-outline ki-abstract-2"
+  },
+  {
+    "class": "ki-outline ki-abstract-3"
+  },
+  {
+    "class": "ki-outline ki-abstract-4"
+  },
+  {
+    "class": "ki-outline ki-abstract-5"
+  },
+  {
+    "class": "ki-outline ki-abstract-6"
+  },
+  {
+    "class": "ki-outline ki-abstract-7"
+  },
+  {
+    "class": "ki-outline ki-abstract-8"
+  },
+  {
+    "class": "ki-outline ki-abstract-9"
+  },
+  {
+    "class": "ki-outline ki-abstract-10"
+  },
+  {
+    "class": "ki-outline ki-abstract-11"
+  },
+  {
+    "class": "ki-outline ki-abstract-12"
+  },
+  {
+    "class": "ki-outline ki-abstract-13"
+  },
+  {
+    "class": "ki-outline ki-abstract-14"
+  },
+  {
+    "class": "ki-outline ki-abstract-15"
+  },
+  {
+    "class": "ki-outline ki-abstract-16"
+  },
+  {
+    "class": "ki-outline ki-abstract-17"
+  },
+  {
+    "class": "ki-outline ki-abstract-18"
+  },
+  {
+    "class": "ki-outline ki-abstract-19"
+  },
+  {
+    "class": "ki-outline ki-abstract-20"
+  },
+  {
+    "class": "ki-outline ki-abstract-21"
+  },
+  {
+    "class": "ki-outline ki-abstract-22"
+  },
+  {
+    "class": "ki-outline ki-abstract-23"
+  },
+  {
+    "class": "ki-outline ki-abstract-24"
+  },
+  {
+    "class": "ki-outline ki-abstract-25"
+  },
+  {
+    "class": "ki-outline ki-abstract-26"
+  },
+  {
+    "class": "ki-outline ki-abstract-27"
+  },
+  {
+    "class": "ki-outline ki-abstract-28"
+  },
+  {
+    "class": "ki-outline ki-abstract-29"
+  },
+  {
+    "class": "ki-outline ki-abstract-30"
+  },
+  {
+    "class": "ki-outline ki-abstract-31"
+  },
+  {
+    "class": "ki-outline ki-abstract-32"
+  },
+  {
+    "class": "ki-outline ki-abstract-33"
+  },
+  {
+    "class": "ki-outline ki-abstract-34"
+  },
+  {
+    "class": "ki-outline ki-abstract-35"
+  },
+  {
+    "class": "ki-outline ki-abstract-36"
+  },
+  {
+    "class": "ki-outline ki-abstract-37"
+  },
+  {
+    "class": "ki-outline ki-abstract-38"
+  },
+  {
+    "class": "ki-outline ki-abstract-39"
+  },
+  {
+    "class": "ki-outline ki-abstract-40"
+  },
+  {
+    "class": "ki-outline ki-abstract-41"
+  },
+  {
+    "class": "ki-outline ki-abstract-42"
+  },
+  {
+    "class": "ki-outline ki-abstract-43"
+  },
+  {
+    "class": "ki-outline ki-abstract-44"
+  },
+  {
+    "class": "ki-outline ki-abstract-45"
+  },
+  {
+    "class": "ki-outline ki-abstract-46"
+  },
+  {
+    "class": "ki-outline ki-abstract-47"
+  },
+  {
+    "class": "ki-outline ki-abstract-48"
+  },
+  {
+    "class": "ki-outline ki-abstract-49"
+  },
+  {
+    "class": "ki-outline ki-add-item"
+  },
+  {
+    "class": "ki-outline ki-airpod"
+  },
+  {
+    "class": "ki-outline ki-archive-tick"
+  },
+  {
+    "class": "ki-outline ki-archive"
+  },
+  {
+    "class": "ki-outline ki-artificial-intelligence"
+  },
+  {
+    "class": "ki-outline ki-auto-brightness"
+  },
+  {
+    "class": "ki-outline ki-behance"
+  },
+  {
+    "class": "ki-outline ki-bluetooth"
+  },
+  {
+    "class": "ki-outline ki-book-square"
+  },
+  {
+    "class": "ki-outline ki-brush"
+  },
+  {
+    "class": "ki-outline ki-bucket-square"
+  },
+  {
+    "class": "ki-outline ki-bucket"
+  },
+  {
+    "class": "ki-outline ki-calculator"
+  },
+  {
+    "class": "ki-outline ki-call"
+  },
+  {
+    "class": "ki-outline ki-cd"
+  },
+  {
+    "class": "ki-outline ki-chrome"
+  },
+  {
+    "class": "ki-outline ki-classmates"
+  },
+  {
+    "class": "ki-outline ki-cloud-add"
+  },
+  {
+    "class": "ki-outline ki-cloud-change"
+  },
+  {
+    "class": "ki-outline ki-cloud-download"
+  },
+  {
+    "class": "ki-outline ki-cloud"
+  },
+  {
+    "class": "ki-outline ki-coffee"
+  },
+  {
+    "class": "ki-outline ki-color-swatch"
+  },
+  {
+    "class": "ki-outline ki-colors-square"
+  },
+  {
+    "class": "ki-outline ki-compass"
+  },
+  {
+    "class": "ki-outline ki-copy-success"
+  },
+  {
+    "class": "ki-outline ki-copy"
+  },
+  {
+    "class": "ki-outline ki-crown-2"
+  },
+  {
+    "class": "ki-outline ki-crown"
+  },
+  {
+    "class": "ki-outline ki-cup"
+  },
+  {
+    "class": "ki-outline ki-design-2"
+  },
+  {
+    "class": "ki-outline ki-design-frame"
+  },
+  {
+    "class": "ki-outline ki-design-mask"
+  },
+  {
+    "class": "ki-outline ki-design"
+  },
+  {
+    "class": "ki-outline ki-devices-2"
+  },
+  {
+    "class": "ki-outline ki-devices"
+  },
+  {
+    "class": "ki-outline ki-diamonds"
+  },
+  {
+    "class": "ki-outline ki-disk"
+  },
+  {
+    "class": "ki-outline ki-dribbble"
+  },
+  {
+    "class": "ki-outline ki-drop"
+  },
+  {
+    "class": "ki-outline ki-electricity"
+  },
+  {
+    "class": "ki-outline ki-electronic-clock"
+  },
+  {
+    "class": "ki-outline ki-emoji-happy"
+  },
+  {
+    "class": "ki-outline ki-eraser"
+  },
+  {
+    "class": "ki-outline ki-external-drive"
+  },
+  {
+    "class": "ki-outline ki-facebook"
+  },
+  {
+    "class": "ki-outline ki-faceid"
+  },
+  {
+    "class": "ki-outline ki-feather"
+  },
+  {
+    "class": "ki-outline ki-filter-edit"
+  },
+  {
+    "class": "ki-outline ki-filter-search"
+  },
+  {
+    "class": "ki-outline ki-filter-square"
+  },
+  {
+    "class": "ki-outline ki-filter-tick"
+  },
+  {
+    "class": "ki-outline ki-filter"
+  },
+  {
+    "class": "ki-outline ki-fingerprint-scanning"
+  },
+  {
+    "class": "ki-outline ki-flag"
+  },
+  {
+    "class": "ki-outline ki-flash-circle"
+  },
+  {
+    "class": "ki-outline ki-focus"
+  },
+  {
+    "class": "ki-outline ki-general-mouse"
+  },
+  {
+    "class": "ki-outline ki-geolocation-home"
+  },
+  {
+    "class": "ki-outline ki-geolocation"
+  },
+  {
+    "class": "ki-outline ki-ghost"
+  },
+  {
+    "class": "ki-outline ki-gift"
+  },
+  {
+    "class": "ki-outline ki-glass"
+  },
+  {
+    "class": "ki-outline ki-happy-emoji"
+  },
+  {
+    "class": "ki-outline ki-home"
+  },
+  {
+    "class": "ki-outline ki-home-1"
+  },
+  {
+    "class": "ki-outline ki-home-2"
+  },
+  {
+    "class": "ki-outline ki-home-3"
+  },
+  {
+    "class": "ki-outline ki-home"
+  },
+  {
+    "class": "ki-outline ki-icon"
+  },
+  {
+    "class": "ki-outline ki-information"
+  },
+  {
+    "class": "ki-outline ki-instagram"
+  },
+  {
+    "class": "ki-outline ki-joystick"
+  },
+  {
+    "class": "ki-outline ki-keyboard"
+  },
+  {
+    "class": "ki-outline ki-laptop"
+  },
+  {
+    "class": "ki-outline ki-magnifier"
+  },
+  {
+    "class": "ki-outline ki-map"
+  },
+  {
+    "class": "ki-outline ki-menu"
+  },
+  {
+    "class": "ki-outline ki-milk"
+  },
+  {
+    "class": "ki-outline ki-monitor-mobile"
+  },
+  {
+    "class": "ki-outline ki-moon"
+  },
+  {
+    "class": "ki-outline ki-mouse-circle"
+  },
+  {
+    "class": "ki-outline ki-mouse-square"
+  },
+  {
+    "class": "ki-outline ki-mouse"
+  },
+  {
+    "class": "ki-outline ki-night-day"
+  },
+  {
+    "class": "ki-outline ki-paintbucket"
+  },
+  {
+    "class": "ki-outline ki-paper-clip"
+  },
+  {
+    "class": "ki-outline ki-pencil"
+  },
+  {
+    "class": "ki-outline ki-people"
+  },
+  {
+    "class": "ki-outline ki-phone"
+  },
+  {
+    "class": "ki-outline ki-picture"
+  },
+  {
+    "class": "ki-outline ki-pin"
+  },
+  {
+    "class": "ki-outline ki-pointers"
+  },
+  {
+    "class": "ki-outline ki-printer"
+  },
+  {
+    "class": "ki-outline ki-profile-circle"
+  },
+  {
+    "class": "ki-outline ki-profile-user"
+  },
+  {
+    "class": "ki-outline ki-ranking"
+  },
+  {
+    "class": "ki-outline ki-receipt-square"
+  },
+  {
+    "class": "ki-outline ki-rescue"
+  },
+  {
+    "class": "ki-outline ki-rocket"
+  },
+  {
+    "class": "ki-outline ki-route"
+  },
+  {
+    "class": "ki-outline ki-router"
+  },
+  {
+    "class": "ki-outline ki-safe-home"
+  },
+  {
+    "class": "ki-outline ki-satellite"
+  },
+  {
+    "class": "ki-outline ki-save-2"
+  },
+  {
+    "class": "ki-outline ki-screen"
+  },
+  {
+    "class": "ki-outline ki-send"
+  },
+  {
+    "class": "ki-outline ki-share"
+  },
+  {
+    "class": "ki-outline ki-simcard-2"
+  },
+  {
+    "class": "ki-outline ki-simcard"
+  },
+  {
+    "class": "ki-outline ki-size"
+  },
+  {
+    "class": "ki-outline ki-slider"
+  },
+  {
+    "class": "ki-outline ki-snapchat"
+  },
+  {
+    "class": "ki-outline ki-social-media"
+  },
+  {
+    "class": "ki-outline ki-sort"
+  },
+  {
+    "class": "ki-outline ki-speaker"
+  },
+  {
+    "class": "ki-outline ki-star"
+  },
+  {
+    "class": "ki-outline ki-status"
+  },
+  {
+    "class": "ki-outline ki-subtitle"
+  },
+  {
+    "class": "ki-outline ki-sun"
+  },
+  {
+    "class": "ki-outline ki-switch"
+  },
+  {
+    "class": "ki-outline ki-tablet"
+  },
+  {
+    "class": "ki-outline ki-tag-cross"
+  },
+  {
+    "class": "ki-outline ki-tech-wifi"
+  },
+  {
+    "class": "ki-outline ki-technology"
+  },
+  {
+    "class": "ki-outline ki-technology-1"
+  },
+  {
+    "class": "ki-outline ki-technology-2"
+  },
+  {
+    "class": "ki-outline ki-technology-3"
+  },
+  {
+    "class": "ki-outline ki-technology-4"
+  },
+  {
+    "class": "ki-outline ki-telephone-geolocation"
+  },
+  {
+    "class": "ki-outline ki-text-align-center"
+  },
+  {
+    "class": "ki-outline ki-text-align-justify-center"
+  },
+  {
+    "class": "ki-outline ki-text-align-left"
+  },
+  {
+    "class": "ki-outline ki-text-align-right"
+  },
+  {
+    "class": "ki-outline ki-text-bold"
+  },
+  {
+    "class": "ki-outline ki-text-circle"
+  },
+  {
+    "class": "ki-outline ki-text-italic"
+  },
+  {
+    "class": "ki-outline ki-text-number"
+  },
+  {
+    "class": "ki-outline ki-text-strikethrough"
+  },
+  {
+    "class": "ki-outline ki-text-underline"
+  },
+  {
+    "class": "ki-outline ki-text"
+  },
+  {
+    "class": "ki-outline ki-tiktok"
+  },
+  {
+    "class": "ki-outline ki-trash-square"
+  },
+  {
+    "class": "ki-outline ki-trash"
+  },
+  {
+    "class": "ki-outline ki-tree"
+  },
+  {
+    "class": "ki-outline ki-triangle"
+  },
+  {
+    "class": "ki-outline ki-twitter"
+  },
+  {
+    "class": "ki-outline ki-user-edit"
+  },
+  {
+    "class": "ki-outline ki-user-square"
+  },
+  {
+    "class": "ki-outline ki-user-tick"
+  },
+  {
+    "class": "ki-outline ki-user"
+  },
+  {
+    "class": "ki-outline ki-verify"
+  },
+  {
+    "class": "ki-outline ki-whatsapp"
+  },
+  {
+    "class": "ki-outline ki-wifi-home"
+  },
+  {
+    "class": "ki-outline ki-wifi-square"
+  },
+  {
+    "class": "ki-outline ki-wifi"
+  },
+  {
+    "class": "ki-outline ki-youtube"
+  }
+]

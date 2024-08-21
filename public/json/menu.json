@@ -1,0 +1,204 @@
+[
+    {
+        "name": "Dashboard",
+        "module": "dashboard",
+        "slug": "admin-dashboard",
+        "icon": "fal fa-house",
+        "url": "/dashboard",
+        "order": 0,
+        "childrens": []
+    },
+    {
+        "name": "Profil",
+        "module": "profil",
+        "slug": "profil",
+        "icon": "fal fa-address-card",
+        "url": "/asesor/profil",
+        "order": 0,
+        "childrens": []
+    },
+    {
+        "name": "Data Master",
+        "module": "data-master",
+        "slug": "data-master",
+        "icon": "fal fa-database",
+        "url": "",
+        "order": 1,
+        "childrens": [
+            {
+                "name": "Provinsi",
+                "module": "data-master.provinsi",
+                "slug": "data-master-provinsi",
+                "icon": "fal fa-map-marker-alt",
+                "url": "/master/provinsi",
+                "order": 1,
+                "childrens": []
+            },
+            {
+                "name": "Kabupaten/Kota",
+                "module": "data-master.kabupaten",
+                "slug": "data-master-kabupaten",
+                "icon": "fal fa-map-marker-alt",
+                "url": "/master/kabupaten",
+                "order": 2,
+                "childrens": []
+            },
+            {
+                "name": "Kecamatan",
+                "module": "data-master.kecamatan",
+                "slug": "data-master.kecamatan",
+                "icon": "fal fa-map-marker-alt",
+                "url": "/master/kecamatan",
+                "order": 3,
+                "childrens": []
+            },
+            {
+                "name": "Kategori Berita",
+                "module": "data-master.kategori-berita",
+                "slug": "data-master-kategori-berita",
+                "icon": "fal fa-th-list",
+                "url": "/master/kategori-berita",
+                "order": 6,
+                "childrens": []
+            }
+        ]
+    },
+    {
+        "name": "CMS",
+        "module": "cms",
+        "slug": "cms",
+        "icon": "fal fa-newspaper",
+        "url": "",
+        "order": 3,
+        "childrens": [
+            {
+                "name": "Slide show",
+                "module": "cms.slide-show",
+                "slug": "cms-slide-show",
+                "icon": "fal fa-images",
+                "url": "/cms/slideshow",
+                "order": 1,
+                "childrens": []
+            },
+            {
+                "name": "File Manager",
+                "module": "cms.file-manager",
+                "slug": "cms-file-manager",
+                "icon": "fal fa-file",
+                "url": "/cms/file-manager",
+                "order": 2,
+                "childrens": []
+            },
+            {
+                "name": "Berita",
+                "module": "cms.news",
+                "slug": "cms-news",
+                "icon": "fal fa-newspaper",
+                "url": "/cms/news",
+                "order": 3,
+                "childrens": []
+            },
+            {
+                "name": "Documents",
+                "module": "cms.documents",
+                "slug": "cms-document",
+                "icon": "fal fa-file-alt",
+                "url": "/cms/document",
+                "order": 4,
+                "childrens": []
+            },
+            {
+                "name": "FAQs",
+                "module": "cms.faqs",
+                "slug": "cms-faqs",
+                "icon": "fal fa-question-circle",
+                "url": "/cms/faqs",
+                "order": 5,
+                "childrens": []
+            }
+        ]
+    },
+    {
+        "name": "Settings",
+        "module": "setting",
+        "slug": "admin-setting",
+        "icon": "fal fa-cogs",
+        "url": null,
+        "order": 8,
+        "childrens": [
+            {
+                "name": "System Setting",
+                "module": "settings.system-setting",
+                "slug": "settings-system-setting",
+                "icon": "fal fa-cog",
+                "url": "/setting/system-setting",
+                "order": 0,
+                "childrens": []
+            },
+            {
+                "name": "Site Setting",
+                "module": "settings.site-setting",
+                "slug": "settings-site-setting",
+                "icon": "fal fa-user-cog",
+                "url": "/setting/site-settings",
+                "order": 1,
+                "childrens": []
+            },
+            {
+                "name": "Menu",
+                "module": "settings.menu",
+                "slug": "settings-menu",
+                "icon": "fal fa-list",
+                "url": "/setting/menu",
+                "order": 2,
+                "childrens": []
+            },
+            {
+                "name": "Menu Sorting",
+                "module": "settings.menu-sorting",
+                "slug": "settings-menu-sorting",
+                "icon": "fal fa-sort-amount-up-alt",
+                "url": "/setting/menu-sorting",
+                "order": 3,
+                "childrens": []
+            },
+            {
+                "name": "Backup Database",
+                "module": "settings.backup",
+                "slug": "settings-backup",
+                "icon": "fal fa-cloud-upload",
+                "url": "/setting/backup",
+                "order": 4,
+                "childrens": []
+            }
+        ]
+    },
+    {
+        "name": "Users",
+        "module": "users",
+        "slug": "users",
+        "icon": "fal fa-users",
+        "url": null,
+        "order": 9,
+        "childrens": [
+            {
+                "name": "User List",
+                "module": "users.user-list",
+                "slug": "users-admin-user-list",
+                "icon": "fal fa-user",
+                "url": "/users/user-list",
+                "order": 1,
+                "childrens": []
+            },
+            {
+                "name": "Role",
+                "module": "users.role",
+                "slug": "users-role",
+                "icon": "fal fa-user-secret",
+                "url": "/users/role",
+                "order": 2,
+                "childrens": []
+            }
+        ]
+    }
+]
